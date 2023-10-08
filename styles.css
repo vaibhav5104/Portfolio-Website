@@ -141,6 +141,7 @@ a {
     border: solid 3px transparent;
     position: relative;
     z-index: 1;
+    border:none;
   }
   .btn-pink::before {
     content: "";
@@ -161,6 +162,7 @@ a {
   .btn-pink:hover {
     border: solid 3px var(--bg0range);
     color: black;
+    border:none;
   }
 
 
